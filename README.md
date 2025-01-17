@@ -1,0 +1,3 @@
+This repository holds a procedure that computes the Greates Common Divisor (GCD) of two numbers. The procedure recives three parameters trough the stack: (1) first number, (2) second number, and (3) an address where to store the GCD.
+
+Este repositorio contiene un ejemplo de como calcular el Máximo Común Divisor (MCD) de dos números usando un procedimiento. El procedimiento recive tres parametros mediante la pila: (1) el primer número, (2) el segundo número, y (3) una dirección de memoria donde se almacena el MCD.
